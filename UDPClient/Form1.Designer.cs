@@ -47,7 +47,7 @@
             this.txtIP.Name = "txtIP";
             this.txtIP.Size = new System.Drawing.Size(268, 20);
             this.txtIP.TabIndex = 0;
-            this.txtIP.Text = "192.168.1.5";
+            this.txtIP.Text = "";
             // 
             // txtPORT
             // 
@@ -55,7 +55,7 @@
             this.txtPORT.Name = "txtPORT";
             this.txtPORT.Size = new System.Drawing.Size(268, 20);
             this.txtPORT.TabIndex = 1;
-            this.txtPORT.Text = "8080";
+            this.txtPORT.Text = "";
             // 
             // btnCON
             // 
